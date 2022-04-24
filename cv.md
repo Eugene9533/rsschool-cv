@@ -1,4 +1,4 @@
-![Photo](https://i.ibb.co/zFbnPGc/photo.jpg)
+![Photo](https://i.ibb.co/fvf550K/photo.jpg)
 
 # **Eugene Shulgin**
 JavaScript/Front-end developer
